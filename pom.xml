@@ -15,6 +15,11 @@
         <module>msvc-gateway</module>
         <module>msvc-eureka</module>
         <module>msvc-config</module>
+        <module>msvc-polizas</module>
+        <module>msvc-partes</module>
+        <module>msvc-vehiculos</module>
+        <module>msvc-peritajes</module>
+        <module>SpringSecurityApp</module>
     </modules>
 
   <name>SpringMicroservice</name>
