@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="869b9b68-d86c-4907-8d69-a5a8d1b14f6f" name="Changes" comment="Add 3 msvcs and added to parent pom.xml">
+      <change afterPath="$PROJECT_DIR$/msvc-student/src/main/java/com/msvc/student/entities/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-student/src/main/java/com/msvc/student/persistence/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-student/src/main/java/com/msvc/student/service/IStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-student/src/main/java/com/msvc/student/service/StudentServiceIMPL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msvc-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/msvc-config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msvc-config/src/main/java/com/msvc/config/MsvcConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msvc-config/src/main/java/com/msvc/config/MsvcConfigApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msvc-config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/msvc-config/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msvc-eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/msvc-eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msvc-eureka/src/main/java/com/msvc/eureka/MsvcEurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msvc-eureka/src/main/java/com/msvc/eureka/MsvcEurekaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msvc-eureka/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/msvc-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msvc-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/msvc-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msvc-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/msvc-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jescolargonzalez&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jescolargonzalez/microservices.git&quot;,
+    &quot;accountId&quot;: &quot;4f548e00-51c5-43a8-86b6-3849de3db994&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jyFO7nnFTG6GWGzSOP63cVZ0ac" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MscvStudentApplication.executor": "Run",
+    "Application.MsvcCourseApplication.executor": "Run",
+    "Application.MsvcEurekaApplication.executor": "Run",
+    "Application.MsvcStudentApplication.executor": "Run",
+    "Maven.msvc-course [clean,install].executor": "Run",
+    "Maven.msvc-student [clean,install].executor": "Run",
+    "Maven.msvc-student [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/corre/Desktop/Microservicios/SpringMicroservice",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\corre\Desktop\Microservicios\SpringMicroservice\mscv-student\src\main\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="869b9b68-d86c-4907-8d69-a5a8d1b14f6f" name="Changes" comment="" />
+      <created>1722351375766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722351375766</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Parent config pom">
+      <option name="closed" value="true" />
+      <created>1722355717013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722355717013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add 3 msvcs and added to parent pom.xml">
+      <option name="closed" value="true" />
+      <created>1722357823497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722357823497</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Parent config pom" />
+    <MESSAGE value="Add 3 msvcs and added to parent pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 3 msvcs and added to parent pom.xml" />
+  </component>
+</project>
